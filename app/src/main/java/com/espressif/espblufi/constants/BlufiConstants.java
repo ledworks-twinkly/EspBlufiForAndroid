@@ -5,7 +5,7 @@ import java.util.UUID;
 import blufi.espressif.params.BlufiParameter;
 
 public final class BlufiConstants {
-    public static final String BLUFI_PREFIX = "BLUFI";
+    public static final String BLUFI_PREFIX = "Twinkly";
 
     public static final UUID UUID_SERVICE = BlufiParameter.UUID_SERVICE;
     public static final UUID UUID_WRITE_CHARACTERISTIC = BlufiParameter.UUID_WRITE_CHARACTERISTIC;
